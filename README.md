@@ -19,10 +19,11 @@
 * Project 8：胶囊网络(Capsule Neural Networks)
 
 课程地址：
-[CV计算机视觉集训营](https://www.greedyai.com/course/49) 
+[CV计算机视觉集训营](https://www.greedyai.com/course/49)
 
-学习小组：
-有待更新
+[学习小组](./groups.md)
+
+[学习资料](./additional_reading/)
 
 ## 第一课
 
