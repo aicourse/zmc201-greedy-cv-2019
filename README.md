@@ -25,7 +25,7 @@
 
 [学习资料](./additional_reading/)
 
-[任务分配](.assignment.md) 
+[任务分配](./assignment.md/) 
 
 ## 第一课
 
