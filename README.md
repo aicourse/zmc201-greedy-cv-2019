@@ -21,9 +21,11 @@
 课程地址：
 [CV计算机视觉集训营](https://www.greedyai.com/course/49)
 
-[学习小组](./groups.md)
+[学习小组](./groups.md)     
 
 [学习资料](./additional_reading/)
+
+[任务分配](.assignment.md) 
 
 ## 第一课
 
