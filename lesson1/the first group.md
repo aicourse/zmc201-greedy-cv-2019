@@ -33,3 +33,30 @@
 
 ### 1) 下载驱动：进入 Nivdia 官网找到适合你电脑显卡的驱动并下载。
 [地址]（https://www.geforce.com/drivers）
+
+### 2）下载安装 CUDA：
+这是一种由 NVIDIA 推出的通用并行计算架构，该架构使 GPU 能够解决复杂的计算问题，加速矩阵计算，并且 CUDA 是向后兼容的，即旧版本用新
+的系统打开依然可以用。只有少数 GPU 有不适用的 CUDA 版本。
+[查询 GPU 适用于哪一种 CUDA 的链接:](https://developer.nvidia.com/cuda-gpus)
+[CUDA 下载链接（建议使用本地安装包，稳定）:](https://developer.nvidia.com/cuda-downloads)
+
+ ### 3)下载安装 cuDNN：
+ cuDNN 是专门用于神经网络加速计算的工具，与 CUDA 配套.
+ [cudnn下载地址](https://developer.nvidia.com/cudnn)
+ 
+ ### 4) 安装 TensorFlow GPU 版本或者 PyTorch GPU 版本：从官网找到对应的 pip 安装代码后，通过命令行安装。
+
+#### 检测 TesorFlow GPU 是否有效代码
+```javascript
+import tensorflow as tf
+sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
+```
+
+#### 检测 PyTorch GPU 是否有效代码
+```javascript
+import torch as T
+T.cuda.current_device()
+T.cuda.device_count()
+T.cuda.get_device_name(0)
+```
+
