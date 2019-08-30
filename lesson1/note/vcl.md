@@ -94,7 +94,7 @@ wget -O - https://repo.continuum.io/archive/Anaconda3-5.1.10-Linux-x86_64.sh | b
 
 ### 安装[CUDA](https://developer.nvidia.com/cuda-downloads)
 
-### 安装[cuDNN](https://developer.nvidia.com/cudnn)，测试Tensorflow，PyTorch
+### 安装[cuDNN](https://developer.nvidia.com/cudnn)，测试Tensorflow，PyTorch
 
 ```python
 import tensorflow as tf
