@@ -39,7 +39,7 @@
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |xx|yyyy-mm-dd|无|无|
-|第一组|2019-08-30| |[Assignment](lesson1/the first group)|
+|第一组|2019-08-30| |[Assignment](lesson1/the%20first%20group.md)|
 ## 第二章
 
 ## 第三章
