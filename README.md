@@ -43,6 +43,11 @@
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
 |大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|[iris](lesson1/note/33_note/iris.csv)|
+## 第八课
+
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+|大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/numpy_test.ipynb)|
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
