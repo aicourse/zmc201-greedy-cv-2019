@@ -35,12 +35,12 @@
 |大雄|2019-08-30|[Note](lesson1/note/33_note/33_keras.ipynb)|[Assignment](lesson1/note/33_note/33_numpy.ipynb)|
 ## 第三课
 
-|打卡人|完成时间|笔记|作业|
+|打卡人|完成时间|笔记|data|
 |---|---|---|---|
 |大雄|2019-09-22|[Note](lesson1/note/33_note/33_03.ipynb)|[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
 ## 第五课
 
-|打卡人|完成时间|笔记|作业|
+|打卡人|完成时间|笔记|data|
 |---|---|---|---|
 |大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|[iris](lesson1/note/33_note/iris.csv)|
 ## 第八课
