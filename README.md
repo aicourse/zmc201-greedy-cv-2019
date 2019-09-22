@@ -47,7 +47,7 @@
 
 |打卡人|完成时间|笔记|作业|
 |---|---|---|---|
-|大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/numpy_test.ipynb)|
+|大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/Numpy_test.ipynb)|
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
