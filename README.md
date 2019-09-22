@@ -35,14 +35,14 @@
 |大雄|2019-08-30|[Note](lesson1/note/33_note/33_keras.ipynb)|[Assignment](lesson1/note/33_note/33_numpy.ipynb)|
 ## 第三课
 
-|打卡人|完成时间|笔记|data|
+|打卡人|完成时间|笔记|
 |---|---|---|---|
-|大雄|2019-09-22|[Note](lesson1/note/33_note/33_03.ipynb)|[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
+|大雄|2019-09-22|[Note](lesson1/note/33_note/33_03.ipynb)|
 ## 第五课
 
-|打卡人|完成时间|笔记|data|
+|打卡人|完成时间|笔记|
 |---|---|---|---|
-|大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|[iris](lesson1/note/33_note/iris.csv)|
+|大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|
 ## 第八课
 
 |打卡人|完成时间|笔记|作业|
@@ -62,3 +62,5 @@
 鸢尾花识别比赛地址：https://www.flyai.com/d/IRIS
 
 [笔记](./lesson5/note/)
+[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
+[iris](lesson1/note/33_note/iris.csv)
