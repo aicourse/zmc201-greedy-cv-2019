@@ -33,6 +33,11 @@
 |---|---|---|---|
 |班副|2019-08-29|[Note](lesson1/note/vcl.md)|[Assignment](lesson1/assignment/xx/)|
 |大雄|2019-08-30|[Note](lesson1/note/33_keras.ipynb)|[Assignment](lesson1/note/33_numpy.ipynb)|
+## 第三课
+
+|打卡人|完成时间|笔记|作业|
+|---|---|---|---|
+|大雄|2019-09-22|[Note](lesson1/note/33_03.ipynb)|[SMSSpamCollection](lesson1/note/SMSSpamCollection.txt)|
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
