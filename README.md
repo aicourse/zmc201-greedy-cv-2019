@@ -66,3 +66,8 @@
 垃圾邮件：[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
 
 鸢尾花：[iris](lesson1/note/33_note/iris.csv)
+
+Flickr_8k：https://pan.baidu.com/s/1bQcQAz0pxPix9q9kCoZ1aw 6gpd
+
+vgg：https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.h5
+https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.json
