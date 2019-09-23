@@ -60,9 +60,12 @@
 ## 第五章
 
 鸢尾花识别比赛地址：https://www.flyai.com/d/IRIS
-
 [笔记](./lesson5/note/)
+## 数据集
 
-[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
+|名称|地址|
+|---|---|
 
-[iris](lesson1/note/33_note/iris.csv)
+|垃圾邮件|[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
+
+|鸢尾花|[iris](lesson1/note/33_note/iris.csv)|
