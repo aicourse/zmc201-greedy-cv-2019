@@ -35,14 +35,19 @@
 |大雄|2019-08-30|[Note](lesson1/note/33_note/33_keras.ipynb)|[Assignment](lesson1/note/33_note/33_numpy.ipynb)|
 ## 第三课
 
-|打卡人|完成时间|笔记|作业|
-|---|---|---|---|
-|大雄|2019-09-22|[Note](lesson1/note/33_note/33_03.ipynb)|[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
+|打卡人|完成时间|笔记|
+|---|---|---|
+|大雄|2019-09-22|[Note](lesson1/note/33_note/33_03.ipynb)|
 ## 第五课
 
-|打卡人|完成时间|笔记|作业|
+|打卡人|完成时间|笔记|
+|---|---|---|
+|大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|
+## 第八课
+
+|打卡人|完成时间|作业1|作业2|
 |---|---|---|---|
-|大雄|2019-09-22|[Note](lesson1/note/33_note/33_05.ipynb)|[iris](lesson1/note/33_note/iris.csv)|
+|大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/Numpy_test.ipynb)|
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
@@ -55,5 +60,9 @@
 ## 第五章
 
 鸢尾花识别比赛地址：https://www.flyai.com/d/IRIS
-
 [笔记](./lesson5/note/)
+## 数据集
+
+垃圾邮件：[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
+
+鸢尾花：[iris](lesson1/note/33_note/iris.csv)
