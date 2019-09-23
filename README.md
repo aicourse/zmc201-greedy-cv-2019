@@ -48,6 +48,13 @@
 |打卡人|完成时间|作业1|作业2|
 |---|---|---|---|
 |大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/Numpy_test.ipynb)|
+## 第十一课
+
+|打卡人|完成时间|作业|
+|---|---|---|
+|大雄|2019-09-23|[图说](lesson1/note/33_homework/homework2/all.ipynb)|
+
+
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
