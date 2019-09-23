@@ -63,6 +63,6 @@
 [笔记](./lesson5/note/)
 ## 数据集
 
-垃圾邮件：[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
+垃圾邮件：[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
 
-鸢尾花：[iris](lesson1/note/33_note/iris.csv)|
+鸢尾花：[iris](lesson1/note/33_note/iris.csv)
