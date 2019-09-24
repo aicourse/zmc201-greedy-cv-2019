@@ -48,6 +48,13 @@
 |打卡人|完成时间|作业1|作业2|
 |---|---|---|---|
 |大雄|2019-09-22|[python](lesson1/note/33_homework/homework1/python_test.ipynb)|[numpy](lesson1/note/33_homework/homework1/Numpy_test.ipynb)|
+## 第十一课
+
+|打卡人|完成时间|作业|
+|---|---|---|
+|大雄|2019-09-23|[图说](lesson1/note/33_homework/homework2/all.ipynb)|
+
+
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
@@ -66,3 +73,8 @@
 垃圾邮件：[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)
 
 鸢尾花：[iris](lesson1/note/33_note/iris.csv)
+
+Flickr_8k：[密码：6gpd](https://pan.baidu.com/s/1bQcQAz0pxPix9q9kCoZ1aw) 
+
+vgg：[weight](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.h5)
+[结构](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.json)
