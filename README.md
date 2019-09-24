@@ -80,14 +80,9 @@
 ## 数据集
 |name|address|
 |---|---|
-
 |垃圾邮件|[SMSSpamCollection](lesson1/note/33_note/SMSSpamCollection.txt)|
-
 |鸢尾花|[iris](lesson1/note/33_note/iris.csv)|
-
 |Flickr_8k|[密码：6gpd](https://pan.baidu.com/s/1bQcQAz0pxPix9q9kCoZ1aw)|
-
 |vgg|[weight](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.h5)
 [结构](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.json)|
-
 |自动驾驶|[模拟器](https://github.com/udacity/self-driving-car-sim)|
