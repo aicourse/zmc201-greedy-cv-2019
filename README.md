@@ -53,7 +53,11 @@
 |打卡人|完成时间|作业|
 |---|---|---|
 |大雄|2019-09-23|[图说](lesson1/note/33_homework/homework2/all.ipynb)|
+## 第十三课
 
+|打卡人|完成时间|作业|
+|---|---|---|
+|大雄|2019-09-24|[交通标志识别](lesson1/note/33_homework/homework3/all.ipynb)|
 
 ## 第一章
 
