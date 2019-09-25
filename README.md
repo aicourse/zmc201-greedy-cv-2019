@@ -63,7 +63,11 @@
 |打卡人|完成时间|作业|
 |---|---|---|
 |大雄|2019-09-25|[方向盘控制](lesson1/note/33_homework/homework4/all.ipynb)|
+## 第十五课
 
+|打卡人|完成时间|作业|
+|---|---|---|
+|大雄|2019-09-25|[车辆检测](lesson1/note/33_homework/homework5/all.ipynb)|
 ## 第一章
 
 |打卡人|完成时间|笔记|作业|
@@ -85,3 +89,4 @@
 |Flickr_8k|[密码：6gpd](https://pan.baidu.com/s/1bQcQAz0pxPix9q9kCoZ1aw)|
 |vgg|[weight](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.h5)[结构](https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.json)|
 |自动驾驶|[模拟器](https://github.com/udacity/self-driving-car-sim)|
+|车辆目标检测|[密码：8a9c](https://pan.baidu.com/s/1mWUROXQmXi_b528anxlYKQ)
